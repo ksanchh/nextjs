@@ -9563,7 +9563,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown > a:hover {
   position: relative;
   z-index: 1;
   clip-path: polygon(0 0, 100% 70px, 100% 100%, 0 100%);
-  background-color: #a9d189;
+  background-color: #89b6d1;
 }
 @media screen and (max-width: 1399px) {
   .tl-1-sub-banner > img {

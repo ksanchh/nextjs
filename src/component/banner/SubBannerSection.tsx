@@ -42,7 +42,7 @@ const SubBannerSection = () => {
         {...settingsReverse} 
         className="tl-1-sub-banner-ticker tl-1-sub-banner-ticker-2"
         >
-          <h3>Take Best Course Online For Free</h3>
+          <h3>Kevin Test</h3>
           <></>
         </Slider>
       </div>
@@ -51,7 +51,7 @@ const SubBannerSection = () => {
         <Slider 
         {...settings}
         className="tl-1-sub-banner-ticker">
-          <h3>Take Best Course Online For Free</h3>
+          <h3>Kevin Test</h3>
           <></>
         </Slider>
       </div>

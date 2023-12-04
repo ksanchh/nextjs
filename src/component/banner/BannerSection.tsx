@@ -20,7 +20,7 @@ const BannerSection = () => {
                 <div className="col-lg-5">
                     <div className="tl-1-banner-img position-relative">
                         <span className="kb-13-banner-img-tag">Live</span>
-                        <img src="assets/images/tl-1/banner-img.jpg" alt="Banner Image"/>
+                        <img src="https://images.pexels.com/photos/19238352/pexels-photo-19238352/free-photo-of-a-man-is-sitting-at-a-desk-with-a-computer-monitor.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Banner Image"/>
                     </div>
                 </div>
             </div>
