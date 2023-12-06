@@ -43,7 +43,7 @@ const CategorySection = () => {
               </Nav>
               <Tab.Content className="tab-content" id="myTabContent">
                 <Tab.Pane eventKey="tl-7-cat-1-tab">
-                  <img src="assets/images/tl-7/cate-1.jpg" alt="Dance image" />
+                  <img src="https://images.pexels.com/photos/209948/pexels-photo-209948.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Dance image" />
                 </Tab.Pane>
                 <Tab.Pane eventKey="tl-7-cat-2-tab">
                   <img src="assets/images/tl-7/cate-2.jpg" alt="Dance image" />
